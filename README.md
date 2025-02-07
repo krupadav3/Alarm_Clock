@@ -74,6 +74,8 @@ This project is a simple digital clock built using an **Arduino** and an **LCD d
 
 -   **Battery Backup** to prevent resets during power loss.
 
+##
+
 **Author**: Krupa Dave
 
 **Project Version**: 1.0
