@@ -5,7 +5,7 @@
 This project is a simple digital clock built using an **Arduino** and an **LCD display**. The clock features adjustable hours and minutes and uses buttons to toggle between setting modes. The time automatically updates every minute and supports a **12-hour format with AM/PM indicators**.
 
 <p align="center">
-  <img src="unnamed.jpg" width="400">
+  <img src="unnamed.jpg" width="600">
 </p>
 
 ## Components Used 
